@@ -1,4 +1,5 @@
 import { Server } from "@/Services/Server"
+import "@/API/API_Handler"
 
 const PORT = 3000
 

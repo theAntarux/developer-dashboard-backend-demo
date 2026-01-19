@@ -1,4 +1,4 @@
-export const communities = {
+export const Communities = {
 	["Imperialist Robloxian Federation"]: 872876,
 	["Imperialist Robloxian Military"]: 3029096,
 	["Government of the Federation"]: 5248401,
